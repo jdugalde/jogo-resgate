@@ -5,4 +5,4 @@
 ###### Projeto orientado pelo Prof Denilson Bonatti
 
 
-<img src="https://img.shields.io/static/v1?label=Desenvolvido com &message=HTML5 - CSS E JAVASCRITP &color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Desenvolvido com &message=HTML5 - CSS - JQuery E JAVASCRITP &color=7159c1&style=for-the-badge&logo=ghost"/>
